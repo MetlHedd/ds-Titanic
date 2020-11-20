@@ -1,0 +1,7 @@
+test.py
+data/
+
+.vscode/
+
+*.html
+*.pdf
